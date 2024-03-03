@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=i
+comment1.target=Juego(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=i
+comment3.target=void\ objetosNiveles(int)
+comment4.params=
+comment4.target=void\ prepararJuego()
+numComments=5

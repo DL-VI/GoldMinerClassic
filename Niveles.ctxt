@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Niveles
+comment1.params=x\ y\ z
+comment1.target=Niveles(int,\ int,\ int)
+comment2.params=temporizador
+comment2.target=void\ setTemporizador(int)
+comment3.params=
+comment3.target=int\ getTemporizador()
+numComments=4

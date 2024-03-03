@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Gancho
+comment1.params=
+comment1.target=Gancho()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moverHorizontal()
+comment4.params=
+comment4.target=void\ bordeMundo()
+comment5.params=
+comment5.target=void\ teclaAbajo()
+comment6.params=distanciaDescenso\ objetoDebajo
+comment6.target=void\ descenderGancho(int,\ greenfoot.Actor)
+comment7.params=objetoDebajo
+comment7.target=void\ ascenderGancho(greenfoot.Actor)
+comment8.params=objetoDebajo
+comment8.target=void\ manejarObjetos(greenfoot.Actor)
+numComments=9
